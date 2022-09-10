@@ -1,15 +1,21 @@
 [
     {
     "title":"Cricket",
-    "imageurl": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "imageurl": "https://picsum.photos/id/0/367/267"
 },{
-    "title":"Cricket",
-    "imageurl": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "title":"Stock",
+    "imageurl": "https://picsum.photos/id/1002/367/267"
 },{
-    "title":"Cricket",
-    "imageurl": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "title":"Business",
+    "imageurl": "https://picsum.photos/id/1003/367/267"
 },{
-    "title":"Cricket",
-    "imageurl": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    "title":"World",
+    "imageurl": "https://picsum.photos/id/1025/367/267"
+},{
+    "title":"Technology",
+    "imageurl": "https://picsum.photos/id/10/367/267"
+},{
+    "title":"Nature",
+    "imageurl": "https://picsum.photos/id/1016/367/267"
 }
 ]
